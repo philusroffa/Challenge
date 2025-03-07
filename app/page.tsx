@@ -27,7 +27,7 @@ export default function Home() {
           <LinkGrid />
         </main>
         <footer className="mt-12 text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} My Personal Link Hub</p>
+          <p>© {new Date().getFullYear()} philus_roffa</p>
         </footer>
       </div>
     </div>
