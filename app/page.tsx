@@ -8,7 +8,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8">
         <header className="mb-8">
           <div className="flex items-center justify-between mb-6">
-            <h1 className="text-3xl font-bold text-primary">My Links</h1>
+            <h1 className="text-3xl font-bold text-primary">Testnets Links</h1>
             <ThemeToggle />
           </div>
           <div className="relative">
